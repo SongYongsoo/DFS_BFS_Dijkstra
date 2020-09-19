@@ -12,16 +12,17 @@ DFS & BFS
 + ##### If you follow the input file format suggested above, the input file can be freely generated to contain different types of graphs.
 #### 4. The result will be displayed as text in the console window.           
          
-##### Example 1 (input.txt & actual graph shape)       
+#### *Example 1 (input.txt & actual graph shape)*       
 <img src="https://user-images.githubusercontent.com/55343262/93664192-0abf9980-faa8-11ea-8e46-cc41b4637faa.png" width="80px" height="160px" />
 <img src="https://user-images.githubusercontent.com/55343262/93663909-0d20f400-faa6-11ea-87ee-4c7345f252cd.png" width="250px" height="250px" />                       
         
-##### Example 2 (input.txt & actual graph shape)          
+#### *Example 2 (input.txt & actual graph shape)*          
 <img src="https://user-images.githubusercontent.com/55343262/93664196-13b06b00-faa8-11ea-9c15-0b934388739d.png" width="80px" height="220px" />   
+<p float="left">
 <img src="https://user-images.githubusercontent.com/55343262/93663913-10b47b00-faa6-11ea-8df0-6b1ee61b4d58.png" width="250px" height="250px" />        
 <img src="https://user-images.githubusercontent.com/55343262/93663915-127e3e80-faa6-11ea-90ae-e826b396e10c.png" width="250px" height="250px" />
 <img src="https://user-images.githubusercontent.com/55343262/93663918-14480200-faa6-11ea-8668-4258863a9770.png" width="250px" height="250px" />                      
-       
+</p>       
     
 Dijkstra
 ---------
@@ -33,11 +34,14 @@ Dijkstra
 + ##### If you follow the input file format suggested above, the input file can be freely generated to contain different types of graphs.
 #### 4. The result will be displayed as text in the console window.           
 
-##### Example 1 (input.txt & actual graph shape) 
+#### *Example 1 (input.txt & actual graph shape)* 
 <img src="https://user-images.githubusercontent.com/55343262/93664371-4e66d300-faa9-11ea-9feb-727adb41a055.png" width="170px" height="120px" />         
 <img src="https://user-images.githubusercontent.com/55343262/93664391-8d952400-faa9-11ea-8111-fbe891126a29.png" width="300px" height="300px" />    
         
-##### Example 2 (input.txt & actual graph shape)          
+#### *Example 2 (input.txt & actual graph shape)*          
 <img src="https://user-images.githubusercontent.com/55343262/93664379-5cb4ef00-faa9-11ea-8ea7-b20bd785338a.png" width="160px" height="240px" />         
-<img src="https://user-images.githubusercontent.com/55343262/93664392-8e2dba80-faa9-11ea-9cea-dc54d7347be6.png" width="300px" height="300px" />        
-<img src="https://user-images.githubusercontent.com/55343262/93664393-8ec65100-faa9-11ea-8bea-2b5e9ba2efa4.png" width="300px" height="300px" />        
+<p float="left">
+<img src="https://user-images.githubusercontent.com/55343262/93664777-60964080-faac-11ea-9a20-df4684be2c58.png" width="300px" height="300px" />        
+<img src="https://user-images.githubusercontent.com/55343262/93664781-62f89a80-faac-11ea-8f63-3e79be45ff59.png" width="300px" height="300px" />        
+</p>       
+                                                                                                                                            
